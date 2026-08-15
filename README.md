@@ -19,4 +19,4 @@ if文、elseif文などを使い成績判定システムを作成しました。
 
 Docker環境が起動していることを確認する
 
-ブラウザで　http://localhost:8000/7-2-6_hands-on/practice/grade_calculator.php　を開くと起動し、動作します。
+ブラウザで　http://localhost:8000/7-2-6_hands-on/practice/grade_calculator.php を開くと起動し、動作します。
